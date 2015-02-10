@@ -1,0 +1,45 @@
+|---------+------------------------------------|
+| bubble  | description                        |
+|---------+------------------------------------|
+| afw     | application framework              |
+| cal     | calibration                        |
+| common  | common                             |
+| contrib | contributed repo                   |
+| ctrl    | control (middleware)               |
+| daf     | data access framework (middleware) |
+| data    | data                               |
+| dev     | developer utilities                |
+| docs    | documents                          |
+| ext     | extras                             |
+| ip      | imaging pipeline                   |
+| legacy  | legacy                             |
+| lsst    | top-level products                 |
+| mops    | moving object pipeline             |
+| obs     | observatory                        |
+| qa      | quality assurance                  |
+| qserv   | qserv                              |
+|---------+------------------------------------|
+
+|------------+---------------|
+| new bubble | comments      |
+|------------+---------------|
+| basic      | was common?   |
+| butler     | was daf?      |
+| ctrl       |               |
+| data       |               |
+| dev        |               |
+| docs       |               |
+| extras     | inc contrib   |
+| legacy     |               |
+| mops       |               |
+| obs        |               |
+| production | not used yet? |
+| qa         |               |
+| qserv      |               |
+| sci        | ip            |
+| task       |               |
+| toolkit    | afw           |
+| ui         |               |
+|------------+---------------|
+
+

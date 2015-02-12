@@ -1,3 +1,29 @@
+post-Jim session plan:
+
+|------------+----------------|
+| new bubble | comments       |
+|------------+----------------|
+| basic      | was common     |
+| butler     | was daf        |
+| ctrl       |                |
+| data       |                |
+| dev        |                |
+| docs       |                |
+| extras     | inc contrib    |
+| legacy     |                |
+| lsst       | top level meta |
+| mops       |                |
+| obs        |                |
+| production |                |
+| qa         |                |
+| qserv      |                |
+| sci        | ip             |
+| services   |                |
+| task       |                |
+| toolkit    | afw            |
+| ui         |                |
+|------------+----------------|
+
 
 "Old" plan
 
@@ -22,29 +48,4 @@
 | qa      | quality assurance                  |
 | qserv   | qserv                              |
 |---------+------------------------------------|
-
-post-Jim session plan:
-
-|------------+---------------|
-| new bubble | comments      |
-|------------+---------------|
-| basic      | was common?   |
-| butler     | was daf?      |
-| ctrl       |               |
-| data       |               |
-| dev        |               |
-| docs       |               |
-| extras     | inc contrib   |
-| legacy     |               |
-| mops       |               |
-| obs        |               |
-| production | not used yet? |
-| qa         |               |
-| qserv      |               |
-| sci        | ip            |
-| task       |               |
-| toolkit    | afw           |
-| ui         |               |
-|------------+---------------|
-
 
